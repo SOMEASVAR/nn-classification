@@ -273,7 +273,7 @@ print(le.inverse_transform(x_prediction))
 ![image](https://github.com/SOMEASVAR/nn-classification/assets/93434149/b7172cdb-5d06-4f0b-acd1-417016a6a8b7)
 
 
-## RESULT:To develop a neural network classification model for the given dataset.
+## RESULT:
 Thus the program to develop a neural network classification model for the given dataset is successfully created and it is used to predict the right group of the new customers.
 
 
