@@ -1,10 +1,10 @@
 # Developing a Neural Network Classification Model
 
-## AIM
+## Aim:
 
 To develop a neural network classification model for the given dataset.
 
-## Problem Statement
+## Problem Statement:
 
 An automobile company has plans to enter new markets with their existing products. After intensive market research, they’ve decided that the behavior of the new market is similar to their existing market.
 
@@ -12,7 +12,7 @@ In their existing market, the sales team has classified all customers into 4 seg
 
 You are required to help the manager to predict the right group of the new customers.
 
-## Neural Network Model
+## Neural Network Model:
 
 ![image](https://github.com/SOMEASVAR/nn-classification/assets/93434149/e31e2e6d-1ca3-49c9-bb32-6a8138125268)
 
@@ -53,7 +53,7 @@ Using the DL model predict for some random inputs
 ### STEP 12:
 Build the neural network model for the appropriate layers and depth to visualise represent the model.
 
-## PROGRAM
+## PROGRAM:
 ```
 DEVELOPED BY: SOMEASVAR
 REG NO: 212221230103
