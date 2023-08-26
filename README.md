@@ -241,27 +241,39 @@ print(x_prediction)
 print(le.inverse_transform(x_prediction))
 ```
 
-## Dataset Information
+## Dataset Information:
 
-Include screenshot of the dataset
+![image](https://github.com/SOMEASVAR/nn-classification/assets/93434149/ecdf6fee-f470-4490-adb8-f3aad3504f92)
+
 
 ## OUTPUT
 
-### Training Loss, Validation Loss Vs Iteration Plot
-
-Include your plot here
-
-### Classification Report
-
-Include Classification Report here
-
-### Confusion Matrix
-
-Include confusion matrix here
+### Training Loss, Validation Loss Vs Iteration:
+![image](https://github.com/SOMEASVAR/nn-classification/assets/93434149/fd088b55-c001-4e18-abb8-2c625e402074)
+### Accuracy, Validation Accuracy Vs Iteration:
+![image](https://github.com/SOMEASVAR/nn-classification/assets/93434149/9d430503-ad01-4a6d-9cb8-499b69368d27)
 
 
-### New Sample Data Prediction
 
-Include your sample input and output here
 
-## RESULT
+
+### Classification Report:
+
+![image](https://github.com/SOMEASVAR/nn-classification/assets/93434149/7ddd40f4-bb27-4cd7-8a20-1298005fe5e2)
+
+
+### Confusion Matrix:
+
+![image](https://github.com/SOMEASVAR/nn-classification/assets/93434149/5f2211ff-8934-45dd-b897-23f79815ed6e)
+
+
+
+### New Sample Data Prediction:
+
+![image](https://github.com/SOMEASVAR/nn-classification/assets/93434149/b7172cdb-5d06-4f0b-acd1-417016a6a8b7)
+
+
+## RESULT:To develop a neural network classification model for the given dataset.
+Thus the program to develop a neural network classification model for the given dataset is successfully created and it is used to predict the right group of the new customers.
+
+
